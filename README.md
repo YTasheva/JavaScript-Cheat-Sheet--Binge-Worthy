@@ -18,7 +18,6 @@ JavaScript cheat sheet for developers with basic knowledge.
 - [MDN (Morzilla Developer Network) Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 - [MDN ( Working with objects)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects)
 - [MDN (Working with JSON)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
-- [Javascript Basics for Beginners-a free Udacity course](https://www.udacity.com/course/javascript-basics--ud804)
 - [StackOverflow](https://stackoverflow.com/questions/tagged/javascript)
 - [Codecademy-Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/cheatsheet)
 
@@ -34,7 +33,7 @@ JavaScript cheat sheet for developers with basic knowledge.
 
 ### Links
 
-- Solution URL: 
+- Solution URL: (https://github.com/YTasheva/JavaScript-Cheat-Sheet--Binge-Worthy.git)
 - Live Site URL:
 
 ## Author
