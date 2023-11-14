@@ -24,8 +24,9 @@ JavaScript cheat sheet for developers with basic knowledge.
 
 ### PDF
 
-[ PDF Link](https://app.box.com/s/050nil39vqzulb0ksq1u9nomosvmrdz7)
-[iLoveCoding PDF](https://app.box.com/s/o174hc1gg0jfv9vmh1imu8965z5ufzur)
+- PDF Link - (https://app.box.com/s/050nil39vqzulb0ksq1u9nomosvmrdz7)
+
+- iLoveCoding PDF - (https://app.box.com/s/o174hc1gg0jfv9vmh1imu8965z5ufzur)
   
 ### Screenshot
 
