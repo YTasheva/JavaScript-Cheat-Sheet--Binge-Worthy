@@ -33,7 +33,7 @@ JavaScript cheat sheet for developers with basic knowledge.
 
 ### Links
 
-- Solution URL: 
+- Solution URL: (https://github.com/YTasheva/JavaScript-Cheat-Sheet--Binge-Worthy.git)
 - Live Site URL:
 
 ## Author
