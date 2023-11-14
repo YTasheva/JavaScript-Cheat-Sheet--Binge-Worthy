@@ -23,7 +23,7 @@ JavaScript cheat sheet for developers with basic knowledge.
 
 ### PDF
 
-- PDF Link - [Table of content](https://github.com/YTasheva/JavaScript-Cheat-Sheet--Binge-Worthy/blob/main/JavaScript%20Cheat%20sheet%20-%20table.pdf)
+- PDF Link - [Table data](https://github.com/YTasheva/JavaScript-Cheat-Sheet--Binge-Worthy/blob/main/JavaScript%20Cheat%20sheet%20-%20table.pdf)
 
 - iLoveCoding PDF - [Download the full 13-page PDF](https://github.com/YTasheva/JavaScript-Cheat-Sheet--Binge-Worthy/blob/main/iLoveCoding%20Javascript-cheatsheet.pdf)
   
