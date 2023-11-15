@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/YTasheva"><img src="logo eagle.png" alt="YTasheva" width="100"></a>
+  <a href="https://github.com/YTasheva"><img src="https://github.com/YTasheva/JavaScript-Cheat-Sheet--Binge-Worthy/assets/148258557/8d22b428-4526-42b9-9a03-1b38f740b566" alt="YTasheva" width="100"></a>
   <br>
   JavaScript Cheat Sheet - Binge Worthy
   <br>
