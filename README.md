@@ -13,8 +13,8 @@ JavaScript cheat sheet for developers with basic knowledge.
 
 ## Resources
 
-- [Variables - Storing the information you need] - MDN Web Docs(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
-- [Data Types and Data Structures - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+- [Variables - Storing the information you need](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)- MDN Web Docs
+- - [Data Types and Data Structures - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [Expressions and Operators - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 - [How is == (loose equality) different from === (strict equality) - freeCodeCamp](https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/)
 - [If, Else, Else If - w3schools](https://www.w3schools.com/js/js_if_else.asp)
