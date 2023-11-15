@@ -62,7 +62,7 @@ JavaScript cheat sheet for developers with basic knowledge.
 
 ## Emailware
 
-JavaScript Cheat Sheet is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this info or it has helped you in any way, I'd like you to send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this Cheat Sheet. I'd really appreciate it!
+JavaScript Cheat Sheet is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this info or it has helped you in any way, I'd like you to send me an email at <ytashevagit@gmail.com> about anything you'd want to say about this resource. I'd really appreciate it!
 
 ## Links
 
@@ -82,8 +82,7 @@ MIT
 
 > [YTasheva.com](#) &nbsp;&middot;&nbsp;
 > GitHub [@YTasheva](https://github.com/YTasheva) &nbsp;&middot;&nbsp;
-> Twitter [@YTasheva](#)
-
+> Twitter [@YTasheva](#) &nbsp;&middot;&nbsp;
 
 
 
