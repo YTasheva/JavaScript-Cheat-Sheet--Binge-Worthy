@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/YTasheva"><img src="London logo.png" alt="YTasheva" width="100"></a>
+  <a href="https://github.com/YTasheva"><img src="loge eagle.png" alt="YTasheva" width="100"></a>
   <br>
   JavaScript Cheat Sheet - Binge Worthy
   <br>
@@ -19,8 +19,8 @@
   <a href="#overview">Overview</a> •
   <a href="#resources">Resources</a> •
   <a href="#pdf">PDF</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
+  <a href="#links">Links</a> •
+  <a href="#author">Author</a> •
   <a href="#license">License</a>
 </p>
 
