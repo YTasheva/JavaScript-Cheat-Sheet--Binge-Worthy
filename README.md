@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/YTasheva">
-    <img src="https://github.com/YTasheva/JavaScript-Cheat-Sheet--Binge-Worthy/assets/148258557/36118895-4971-4085-849e-a51043e6a85b)
-" height="300px">
+    <img src="JavaScript.jpg" height="300px">
   </a>
 </p>
 
