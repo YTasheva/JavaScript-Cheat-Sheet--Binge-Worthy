@@ -10,6 +10,7 @@
 <h4 align="center">JavaScript cheat sheet for developers with basic knowledge
 
 <p align="center">
+  
   <a href="https://github.com/YTasheva">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
