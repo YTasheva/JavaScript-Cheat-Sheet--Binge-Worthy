@@ -25,13 +25,7 @@
   <a href="#license">License</a>
 </p>
 
-<h1 align="center">
-  <br>
-  <img src="JavaScript.jpg" width="500"></a>
-  <br>
-</h1>
-
-![screenshot]()
+![screenshot](JavaScript.jpg)
 
 ## Overview
 
