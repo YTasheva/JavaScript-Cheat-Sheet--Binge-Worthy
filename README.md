@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/YTasheva">
-    <img src="JavaScript.jpg" height="300px">
+    <img src="JavaScript.jpg" height="700px">
   </a>
 </p>
 
