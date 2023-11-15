@@ -36,13 +36,13 @@ JavaScript cheat sheet for developers with basic knowledge.
 - [Variables - Storing the information you need](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)- MDN Web Docs
 - [Data Types and Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)- MDN Web Docs
 - [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) - MDN Web Docs
-- [How is `==` (loose equality) different from `===` (strict equality)](https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/) - freeCodeCamp
+- How is `==` [(loose equality)] different from `===` [(strict equality)](https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/) - freeCodeCamp
 - [`If, Else, Else If`](https://www.w3schools.com/js/js_if_else.asp) - w3schools
 - [`Array`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) - MDN Web Docs
-- [`For` statement creates a loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for) - MDN Web Docs
-- [`Switch` Statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch) - MDN Web Docs
-- [`ParseInIt()` How to take a string and return an integer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt) - MDN Web Docs
-- [`CharAt()` Method - return a character at specified position](https://www.w3schools.com/jsref/jsref_charat.asp) - w3schools
+- `For` [statement creates a loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for) - MDN Web Docs
+- `Switch` [Statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch) - MDN Web Docs
+- `ParseInIt()` [How to take a string and return an integer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt) - MDN Web Docs
+- `CharAt()` [Method - return a character at specified position](https://www.w3schools.com/jsref/jsref_charat.asp) - w3schools
 - [`Math Random()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random) - MDN Web Docs
 -	[`Math Floor()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor) - MDN Web Docs
 - [JavaScript Objects](https://www.w3schools.com/js/js_objects.asp) - w3schools
