@@ -36,7 +36,7 @@ JavaScript cheat sheet for developers with basic knowledge.
 - [Variables - Storing the information you need](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)- MDN Web Docs
 - [Data Types and Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)- MDN Web Docs
 - [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) - MDN Web Docs
-- How is `==` different from `===` [loose equality vs strict equality](https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/) - freeCodeCamp
+- How is `==` different from `===` [(loose equality vs strict equality)](https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/) - freeCodeCamp
 - [`If, Else, Else If`](https://www.w3schools.com/js/js_if_else.asp) - w3schools
 - [`Array`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) - MDN Web Docs
 - `For` [statement creates a loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for) - MDN Web Docs
