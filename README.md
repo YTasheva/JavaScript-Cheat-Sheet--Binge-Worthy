@@ -62,7 +62,7 @@ JavaScript cheat sheet for developers with basic knowledge.
 
 ## Emailware
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this info or it has helped you in any way, I'd like you to send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this Cheat Sheet. I'd really appreciate it!
+JavaScript Cheat Sheet is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this info or it has helped you in any way, I'd like you to send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this Cheat Sheet. I'd really appreciate it!
 
 ## Links
 
