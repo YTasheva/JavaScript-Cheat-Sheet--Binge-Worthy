@@ -73,9 +73,9 @@ JavaScript Cheat Sheet is an [emailware](https://en.wiktionary.org/wiki/emailwar
 
 ## Links
 
-- Solution URL: (https://github.com/YTasheva/JavaScript-Cheat-Sheet--Binge-Worthy.git)
-- Live Site URL:
-
+- Solution URL: https://github.com/YTasheva/JavaScript-Cheat-Sheet--Binge-Worthy.git
+- Live Site URL: https://ytasheva.github.io/JavaScript-Cheat-Sheet--Binge-Worthy/
+  
 ## Author
 
 - Github - [Yuliya Tasheva](https://github.com/YTasheva)
