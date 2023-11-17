@@ -50,7 +50,13 @@ JavaScript cheat sheet for developers with basic knowledge.
 - [Working with objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects) - MDN Web Docs
 - [Working with JavaScript Object Notation (JSON)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) - MDN Web Docs
 - [`Function`](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/cheatsheet) - Codecademy
-  
+- `Function`[Parameters](https://www.w3schools.com/js/js_function_parameters.asp) - w3schools
+- `Arrow`[Functions](https://www.youtube.com/watch?v=j1laALb8OVM) - freeCodeCamp video
+- [JavaScript Playlist](https://www.youtube.com/watch?v=upDLs1sn7g4&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax) - video
+- [Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope) - MDN Web Docs
+- `this`[keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) - MDN Web Docs
+- `window`[object](https://developer.mozilla.org/en-US/docs/Web/API/Window) - MDN Web Docs
+- [Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) - MDN Web Docs
 
 > **Note**
 > If you're looking for HTML and CSS Cheat Sheet, [see this link](#).
